@@ -1,0 +1,29 @@
+.header {
+    background-color: seashell;
+}
+.content {
+    font-size:100px;
+}
+p {
+    font-style:Garamond;
+}
+p {
+    margin: 70px;
+}
+
+p {
+    padding: 50px;
+}
+p {
+    background-color: hotpink;
+}
+#ocean {
+    color: darkblue
+}
+h1 {
+    text-decoration: underline;
+}
+img {
+    height: 200px;
+}
+
